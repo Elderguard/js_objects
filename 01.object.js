@@ -11,5 +11,5 @@ const individualObject = {
     //key   value
     name: 'Jose',
     age: 32,
-
+    
 }
