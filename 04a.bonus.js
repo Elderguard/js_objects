@@ -25,12 +25,12 @@ console.log(objPersonagem.aliado) //undefined
 // console.log(objPersonagem.aliado) //undefined
 // console.log(objPersonagem.status) //undefined
 
-Após remover as duas propriedades acima, o objeto agora está desta forma:
-{
-    nome: "Gandalf",
-    classe: "mago",
-    nivel: "20",
-   }
+// Após remover as duas propriedades acima, o objeto agora está desta forma:
+// {
+//     nome: "Gandalf",
+//     classe: "mago",
+//     nivel: "20",
+//    }
 
 //    O valor de retorno do operador delete é um booleano, ou seja, retorna sempre true ou false para cada operação. Porém, é importante notar que ele não retorna false se tentarmos remover, por exemplo, uma propriedade que não existe no objeto:
 // const delProp = delete objPersonagem.aliado
