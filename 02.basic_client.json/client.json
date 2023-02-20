@@ -1,0 +1,11 @@
+{
+  "name": "Joao",
+  "email": "joao@company.com",
+  "phone": ["11223344", "11922334453"],
+  "address": {
+    "streets": "Joseph Climber Street",
+    "number": 404,
+    "apartment": true,
+    "complement": "ap 934"
+  }
+}
